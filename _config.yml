@@ -75,8 +75,8 @@ social-network-links:
   email: "dandiamo@hotmail.com"
   github: ddhll
   twitter: edward_a_hill
-  instagram: ddhll
-  youtube: ddhll
+  instagram: dd.hll
+  youtube: dd. hll
   
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "ddhll.com" 
 
 # --- Web Statistics Section --- #
 
