@@ -8,3 +8,6 @@ I am interested in data visualisation, statistical analysis and self quantificat
 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ddhll/0.embed"></iframe>
+
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~ddhll/2.embed"></iframe>
