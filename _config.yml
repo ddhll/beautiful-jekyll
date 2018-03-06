@@ -24,9 +24,10 @@ description: a repository of data in various forms
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  data: "data"
+  stats: 
+  - data: "data"
+  - seinfeld: "seinfeld"
   foto: "foto"
-  seinfeld" "seinfeld"
   
 #  Resources:
 #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
