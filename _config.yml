@@ -27,6 +27,7 @@ navbar-links:
   stats: 
   - data: "data"
   - seinfeld: "seinfeld"
+  - relive: "relive"
   foto: "foto"
   
 #  Resources:
