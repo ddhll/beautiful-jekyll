@@ -1,6 +1,6 @@
 ---
 layout: page
-title: dataviz
+title: viz
 subtitle: Edward Hill
 ---
 
