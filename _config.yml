@@ -25,8 +25,8 @@ description: a repository of data in various forms
 navbar-links:
   About Me: "aboutme"
   stats: 
-  - data: "data"
-  - seinfeld: "seinfeld"
+  - dataviz: "dataviz"
+  - toilets: "toilets"
   - relive: "relive"
   foto: "foto"
   musik: "musik"
