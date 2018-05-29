@@ -24,10 +24,9 @@ description: a repository of data in various forms
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  stats: 
-  - dataviz: "dataviz"
+  data: 
+  - viz: "viz"
   - toilets: "toilets"
-  - relive: "relive"
   foto: "foto"
   musik: "musik"
   
