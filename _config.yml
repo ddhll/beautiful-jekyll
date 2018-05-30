@@ -27,6 +27,7 @@ navbar-links:
   data: 
   - viz: "viz"
   - toilets: "toilets"
+  - trees: "trees"
   foto: "foto"
   musik: "musik"
   
