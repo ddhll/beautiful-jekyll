@@ -25,6 +25,7 @@ description: a repository of data in various forms
 navbar-links:
   About Me: "aboutme"
   data: 
+  - universities: "universities"
   - viz: "viz"
   - toilets: "toilets"
   - trees: "trees"
